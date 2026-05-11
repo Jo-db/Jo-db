@@ -12,14 +12,14 @@
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>💻 Used 💻</h3>
+      <h3>💻Used</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
       <br/>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     </td>
 
   <td align="center" width="33%">
-    <h3>🎤 Learning 🎤</h3>
+    <h3>🎤Learning</h3>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
     <br/>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
@@ -30,7 +30,7 @@
   </td>
 
   <td align="center" width="33%">
-    <h3>🌟 Interests 🌟</h3>
+    <h3>🌟Interests</h3>
     <img src="https://img.shields.io/badge/Cyber_Security-111111?style=for-the-badge"/>
     <br/>
     <img src="https://img.shields.io/badge/Digital_Forensics-2C2C2C?style=for-the-badge"/>
