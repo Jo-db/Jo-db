@@ -6,4 +6,5 @@
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jo-db&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true)](https://github.com/Jo-db)
 
+![Jo-db's github stats](https://github-readme-stats.vercel.app/api?username=Jo-db&show_icons=true)
 
