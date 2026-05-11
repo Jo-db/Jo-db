@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontAlign=50&fontAlignY=30&&descAlignY=55&height=150&section=headear&text=Dabin's+Github&fontSize=40&fontColor=ffffff">
 </p>
 
-<h1 align = 'center'>
+<h2 align = 'center'>
   Hi there 👋 
-</h1>
+</h2>
 
 <p align="center">
   <a href="https://github.com/Jo-db">
@@ -40,10 +40,10 @@
 <h3 align="center">Interests</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Cyber_Security-111111?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/>
-  <img src="https://img.shields.io/badge/Digital_Forensics-2C2C2C?style=for-the-badge&logo=virustotal&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI_Security-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Log_Analysis-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cyber_Security-111111?style=for-the-badge&logoColor=9FEF00"/>
+  <img src="https://img.shields.io/badge/Digital_Forensics-2C2C2C?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI_Security-412991?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Log_Analysis-005571?style=for-the-badge&logoColor=white"/>
 </p>
 <!--
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Jo-db)
