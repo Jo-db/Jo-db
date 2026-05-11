@@ -7,9 +7,8 @@
   <samp>Hi there 👋</samp> 
 </p>
 
-
 <p align = 'center'>
-  <a href="https://github.com/Jo-db"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true" /></a>
+  <a href="https://github.com/Jo-db"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true&bg_color=30,CED8F6,588beb&title_color=fff&text_color=fff" /></a>
 </p>
 
   [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Jo-db)
