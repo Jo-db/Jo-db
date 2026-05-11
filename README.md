@@ -7,13 +7,6 @@
   Hi there 👋 
 </h2>
 
-<p align="center">
-  <a href="https://github.com/Jo-db">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true" />
-  <a href="https://github.com/Jo-db">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jo-db&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=stars,contribs&count_private=true&show_icons=true" />
-  </a>
-</p>
 
 <h3 align="center">Used</h3>
 
@@ -45,8 +38,11 @@
   <img src="https://img.shields.io/badge/AI_Security-412991?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/Log_Analysis-005571?style=for-the-badge&logoColor=white"/>
 </p>
-<!--
-  [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Jo-db)
 
-  [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Jo-db&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=stars,contribs&count_private=true&show_icons=true)](https://github.com/Jo-db)
--->
+<p align="center">
+  <a href="https://github.com/Jo-db">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Jo-db">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jo-db&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&hide=stars,contribs&count_private=true&show_icons=true" />
+  </a>
+</p>
