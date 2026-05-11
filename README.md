@@ -4,11 +4,11 @@
 </p>
 
 <h2 align = 'center'>
-  Hi there 👋 
+  👋Hi there👋 
 </h2>
 
 
-<h3 align="center">Used</h3>
+<h3 align="center">💻Used💻</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>  -->
 </p>
 
-<h3 align="center">Learning</h3>
+<h3 align="center">✒️Learning✒️</h3>
 
 <p align="center">
 <!--  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> -->
@@ -30,7 +30,7 @@
  <!-- <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/> -->
 </p>
 
-<h3 align="center">Interests</h3>
+<h3 align="center">🌟Interests🌟</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Cyber_Security-111111?style=for-the-badge&logoColor=9FEF00"/>
@@ -39,6 +39,7 @@
   <img src="https://img.shields.io/badge/Log_Analysis-005571?style=for-the-badge&logoColor=white"/>
 </p>
 
+---
 <p align="center">
   <a href="https://github.com/Jo-db">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true" />
