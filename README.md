@@ -7,41 +7,38 @@
   👋Hi there👋
 </h3>
 
----
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>💻Used</h3>
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="220" style="border: none; padding: 0 35px;">
+      <h3>💻 Used 💻</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <br/>
+      <br/><br/>
       <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
     </td>
 
-  <td align="center" width="33%">
-    <h3>🎤Learning</h3>
+  <td align="center" width="220" style="border: none; padding: 0 35px;">
+    <h3>🎤 Learning 🎤</h3>
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-    <br/>
+    <br/><br/>
     <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-    <br/>
+    <br/><br/>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <br/>
+    <br/><br/>
     <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   </td>
 
-  <td align="center" width="33%">
-    <h3>🌟Interests</h3>
+  <td align="center" width="220" style="border: none; padding: 0 35px;">
+    <h3>🌟 Interests 🌟</h3>
     <img src="https://img.shields.io/badge/Cyber_Security-111111?style=for-the-badge"/>
-    <br/>
+    <br/><br/>
     <img src="https://img.shields.io/badge/Digital_Forensics-2C2C2C?style=for-the-badge"/>
-    <br/>
+    <br/><br/>
     <img src="https://img.shields.io/badge/AI_Security-412991?style=for-the-badge"/>
-    <br/>
+    <br/><br/>
     <img src="https://img.shields.io/badge/Log_Analysis-005571?style=for-the-badge"/>
   </td>
   </tr>
 </table>
-
 ---
 <p align="center">
   <a href="https://github.com/Jo-db">
