@@ -3,9 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontAlign=50&fontAlignY=30&&descAlignY=55&height=150&section=headear&text=Dabin's+Github&fontSize=40&fontColor=ffffff">
 </p>
 
-<h2 align = 'center'>
+<h3 align = 'center'>
   👋Hi there👋
-</h2>
+</h3>
 
 ---
 
