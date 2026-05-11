@@ -4,7 +4,7 @@
 </p>
 
 <h2 align = 'center'>
-  👋Hi there👋 
+  👋Hi there👋
 </h2>
 
 ---
