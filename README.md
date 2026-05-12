@@ -43,19 +43,13 @@
   </tr>
 </table>
 ---
-<table width="100%">
-  <tr>
-    <td width="45%">
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true&card_width=400"
-        width="100%"
-      />
-    </td>
-    <td width="55%">
-      <img 
-        src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jo-db&show_icons=true&theme=tokyonight&hide_border=true"
-        width="100%"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
+    width="41%"
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jo-db&show_icons=true&theme=tokyonight&hide_border=true&card_width=560"
+    width="56%"
+  />
+</p>
