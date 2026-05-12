@@ -7,7 +7,7 @@
   👋Hi there👋
 </h3>
 
-<table>
+<table style="border:none">
   <tr>
     <td align="left" width="130" style="border: none;">
       <img src="https://img.shields.io/badge/USED-7B84AD?style=for-the-badge&logoColor=white"/>
@@ -45,11 +45,11 @@
 ---
 <p align="center">
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
-    width="41%"
-  />
-  <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jo-db&show_icons=true&theme=tokyonight&hide_border=true&card_width=560"
     width="56%"
+  />
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
+    width="41%"
   />
 </p>
