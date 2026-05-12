@@ -7,41 +7,30 @@
   👋Hi there👋
 </h3>
 
-<table style="border:none">
-  <tr>
-    <td align="left" width="130" style="border: none;">
-      <img src="https://img.shields.io/badge/USED-7B84AD?style=for-the-badge&logoColor=white"/>
-    </td>
-    <td align="left" style="border: none;">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-    </td>
-  </tr>
+<p align="left">
+  <img src="https://img.shields.io/badge/USED-7B84AD?style=for-the-badge&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
-  <tr>
-    <td align="left" width="130" style="border: none;">
-      <img src="https://img.shields.io/badge/LEARNING-7B84AD?style=for-the-badge&logoColor=white"/>
-    </td>
-    <td align="left" style="border: none;">
-      <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-    </td>
-  </tr>
+<p align="left">
+  <img src="https://img.shields.io/badge/LEARNING-7B84AD?style=for-the-badge&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
 
-  <tr>
-    <td align="left" width="130" style="border: none;">
-      <img src="https://img.shields.io/badge/INTERESTS-7B84AD?style=for-the-badge&logoColor=white"/>
-    </td>
-    <td align="left" style="border: none;">
-      <img src="https://img.shields.io/badge/Cyber_Security-111111?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Digital_Forensics-2C2C2C?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/AI_Security-412991?style=for-the-badge"/>
-      <img src="https://img.shields.io/badge/Log_Analysis-005571?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://img.shields.io/badge/INTERESTS-7B84AD?style=for-the-badge&logoColor=white"/>
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Cyber_Security-111111?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Digital_Forensics-2C2C2C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI_Security-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Log_Analysis-005571?style=for-the-badge"/>
+</p>
 ---
 <p align="center">
   <img 
