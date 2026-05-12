@@ -38,7 +38,7 @@
     width="40%"
   />
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true&card_width=560"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true&card_width=4400"
     width="60%"
   />
 </p>
