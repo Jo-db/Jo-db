@@ -35,10 +35,10 @@
 <p align="center">
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jo-db&show_icons=true&theme=tokyonight&hide_border=true&card_width=560"
-    width="56%"
+    width="40%"
   />
   <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
-    width="41%"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true&card_width=560"
+    width="60%"
   />
 </p>
