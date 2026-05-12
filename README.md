@@ -31,14 +31,17 @@
   <img src="https://img.shields.io/badge/AI_Security-412991?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Log_Analysis-005571?style=for-the-badge"/>
 </p>
+
 ---
+
+
 <p align="center">
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true&card_width=420"
+    width="41%"
+  />
   <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Jo-db&show_icons=true&theme=tokyonight&hide_border=true&card_width=560"
     width="56%"
-  />
-  <img 
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Jo-db&layout=compact&theme=tokyonight&hide_border=true&card_width=440"
-    width="44%"
   />
 </p>
